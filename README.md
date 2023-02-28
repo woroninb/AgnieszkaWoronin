@@ -1,5 +1,8 @@
 # Agnieszka Woronin
 
+<p align="left">
+<img src="https://raw.githubusercontent.com/swiftingio/blog/%2357-Algorithms-DFS-BFS/Graph.svg " width="50">
+</p>
 Absolwentka Akademii Muzycznej im. I. J. Paderewskiego w Poznaniu zaprasza na lekcje gry na SKRZYPCACH dzieci, młodzież i dorosłych!
 
 ## Oferuję
@@ -8,7 +11,7 @@ Absolwentka Akademii Muzycznej im. I. J. Paderewskiego w Poznaniu zaprasza na le
 - pomoc w ćwiczeniu
 - przygotowanie do egzaminów wstępnych do szkoły muzycznej I i II st
 - pomoc w kształceniu słuchu
-- podstawy gry na pianinie
+- nauka gry na pianinie
 
 Posiadam doświadczenie w pracy z dziećmi i z licealistami. Do każdego ucznia podchodzę indywidualnie. Zależy mi, aby przekazać nie tylko wiedzę i praktykę, ale również pasję. Obiecuję moje pełne zaangażowanie, a wszystko w przyjaznej atmosferze:)
 
